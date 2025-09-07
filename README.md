@@ -1,7 +1,6 @@
 # 🚀 Backend Learning Projects
 
-![Backend Showcase](backendImg.jpg)
-
+![alt text](backendImff.png)
 This repository is a **collection of backend projects** I built while learning **Node.js, Express.js, MongoDB, Authentication, and APIs**.
 Projects are organized **day-wise** (Day-01, Day-02, …) and also include **real practice apps** like blogs, authentication systems, and file uploads.
 
@@ -27,13 +26,13 @@ Projects are organized **day-wise** (Day-01, Day-02, …) and also include **rea
 
 ## 🛠️ Tech Stack
 
-* **Node.js** ⚡ (JavaScript runtime)
-* **Express.js** 🚏 (Web framework)
-* **MongoDB + Mongoose** 🍃 (Database & ODM)
-* **JWT & Bcrypt** 🔐 (Authentication & Security)
-* **Multer** 📂 (File Uploads)
-* **dotenv** ⚙ (Environment configuration)
-* **Postman** 📬 (API Testing)
+- **Node.js** ⚡ (JavaScript runtime)
+- **Express.js** 🚏 (Web framework)
+- **MongoDB + Mongoose** 🍃 (Database & ODM)
+- **JWT & Bcrypt** 🔐 (Authentication & Security)
+- **Multer** 📂 (File Uploads)
+- **dotenv** ⚙ (Environment configuration)
+- **Postman** 📬 (API Testing)
 
 ---
 
@@ -61,12 +60,12 @@ npm start
 
 This repository is my **backend learning journal** 📝
 
-* Practicing **Node.js and Express.js** step by step
-* Learning to build **REST APIs**
-* Handling **authentication & authorization**
-* Managing **databases with MongoDB**
-* Exploring **file uploads, middleware, error handling**
-* Preparing for **MERN stack integration**
+- Practicing **Node.js and Express.js** step by step
+- Learning to build **REST APIs**
+- Handling **authentication & authorization**
+- Managing **databases with MongoDB**
+- Exploring **file uploads, middleware, error handling**
+- Preparing for **MERN stack integration**
 
 ---
 
@@ -83,7 +82,7 @@ This repository is my **backend learning journal** 📝
 
 ---
 
-✨ *From learning basics → building real-world backend apps 🚀*
+✨ _From learning basics → building real-world backend apps 🚀_
 
 ---
 
